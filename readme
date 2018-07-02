@@ -1,0 +1,8 @@
+2018.06.19
+lr=0.001 epoch=1000
+the accuracy of training and testing can reach 95% and 85%
+under modelnet10 dataset
+
+problems：
+1.训练时间太长，是否可以设置learning rate decay
+2.segmentation部分需要编写
